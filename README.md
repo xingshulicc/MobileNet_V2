@@ -3,6 +3,7 @@ MobileNet_V2 is a good example of model compression
 
 
 Paper Reference: MobileNetV2: Inverted Residuals and Linear Bottlenecks
+
 Code Reference: https://github.com/xiaochus/MobileNetV2
 
 1. dataset description
