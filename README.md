@@ -43,7 +43,7 @@ def relu6(x):
     return K.relu(x, max_value=6)
 
 
-
+If you have questions, please send email to me: xingshuli600@gmail.com
 
 
 
