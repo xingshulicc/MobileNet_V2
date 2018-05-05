@@ -39,6 +39,7 @@ For 2.1.6
 from keras.layers import DepthwiseConv2D
 
 def relu6(x):
+
     return K.relu(x, max_value=6)
 
 
