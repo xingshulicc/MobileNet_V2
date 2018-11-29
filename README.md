@@ -49,9 +49,8 @@ If you have questions, please send email to me: xingshuli600@gmail.com
 
 The weights of trained model are saved, which initialized with 'imagenet' and the validation accuracy is 96.87%.
 
-The species of citrus pests and diseases can be referred from:
+The description about citrus pests and diseases can be found in:
 
+https://github.com/xingshulicc/Citrus-Pests-Description
 
-
-
-
+https://github.com/xingshulicc/Citrus-Diseases-Description
