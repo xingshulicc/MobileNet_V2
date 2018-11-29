@@ -45,5 +45,13 @@ def relu6(x):
 
 If you have questions, please send email to me: xingshuli600@gmail.com
 
+4. Citrus pests and diseases recognition
+
+The weights of trained model are saved, which initialized with 'imagenet' and the validation accuracy is 96.87%.
+
+The species of citrus pests and diseases can be referred from:
+
+
+
 
 
